@@ -1,0 +1,7 @@
+C:\Users\sd\source\repos\TestMultithreadingAndDelegate\TestMultithreadingAndDelegate\bin\Debug\TestMultithreadingAndDelegate.exe.config
+C:\Users\sd\source\repos\TestMultithreadingAndDelegate\TestMultithreadingAndDelegate\bin\Debug\TestMultithreadingAndDelegate.exe
+C:\Users\sd\source\repos\TestMultithreadingAndDelegate\TestMultithreadingAndDelegate\bin\Debug\TestMultithreadingAndDelegate.pdb
+C:\Users\sd\source\repos\TestMultithreadingAndDelegate\TestMultithreadingAndDelegate\obj\Debug\TestMultithreadingAndDelegate.csprojAssemblyReference.cache
+C:\Users\sd\source\repos\TestMultithreadingAndDelegate\TestMultithreadingAndDelegate\obj\Debug\TestMultithreadingAndDelegate.csproj.CoreCompileInputs.cache
+C:\Users\sd\source\repos\TestMultithreadingAndDelegate\TestMultithreadingAndDelegate\obj\Debug\TestMultithreadingAndDelegate.exe
+C:\Users\sd\source\repos\TestMultithreadingAndDelegate\TestMultithreadingAndDelegate\obj\Debug\TestMultithreadingAndDelegate.pdb
